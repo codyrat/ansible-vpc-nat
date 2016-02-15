@@ -1,0 +1,7 @@
+---
+
+cidr: 10.22.0.0/16
+public_subnet: 10.22.0.0/24
+private_subnet: 10.22.1.0/24
+public_subnet_az: us-east-1b
+private_subnet_az: us-east-1d
